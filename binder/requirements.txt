@@ -1,3 +1,5 @@
 sounddevice
 pyroomacoustics
 nara-wpe
+matplotlib
+ipympl
