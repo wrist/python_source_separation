@@ -1,7 +1,7 @@
 ## Pythonで学ぶ音源分離（機械学習実践シリーズ）のソースコード
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrist/python_source_separation/launch_binder_and_colab?urlpath=lab)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wrist/python_source_separation/blob/launch_binder_and_colab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrist/python_source_separation/AddNotebook?urlpath=lab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wrist/python_source_separation/blob/AddNotebook)
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-green.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
